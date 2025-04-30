@@ -31,4 +31,5 @@
 * D : ```false```
 * E : ```false```
 * F : ```true```
-15. The ```==``` operator compares the **value** of datatypes, while the ```===``` compares the **datatype** of each value. 
+15. The ```==``` operator compares the **value** of datatypes, while the ```===``` compares the **datatype** of each value.
+17. the final result will be `[2, 4, 6]`, the function returns a new array which is filled with the numbers we input  multiplied by 2.
